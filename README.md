@@ -1,3 +1,3 @@
 # DevopsTool
 
-In this section we can find all available code for needed for different devops tool
+In this section you will find some of the devops tool that is currently being used
